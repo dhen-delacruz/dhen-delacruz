@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There<br> About Me:<br>i'm passionate you iloveyou<br>skills:<br>skills to love you<br>iloveyou erika
+Hi There<br> About Me:<br>i'm passionate you iloveyou<br>skills:<br>skills to love you<br>iloveyou 
 
 
 # 💻 Tech Stack:
