@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There<br> About Me:<br>i'm passionate you iloveyou<br>skills:<br>skills to love you<br>iloveyou 
+Hi There<br> About Me:<br>Hi there! I'm Dheniell Dela Cruz, a Bachelor of Science in Information Technology graduate and currently an Intern Dean Assistant at the Philippine College of Science and Technology (PhilCST).<br>I am passionate about web development, software development, and building practical technology solutions that improve efficiency and user experience. My experience includes assisting with administrative and academic operations, document management, and developing IT-related projects using modern programming and web technologies.<br>I enjoy learning new technologies, solving real-world problems through programming, and continuously improving my skills in both technical development and organizational work.<br>skills:<br>skills about programming<br> 
 
 
 # 💻 Tech Stack:
